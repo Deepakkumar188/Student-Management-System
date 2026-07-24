@@ -1,5 +1,5 @@
 """
-Advanced Student Data Management System (OOP Based)
+Student Data Management System (OOPs Based)
 =====================================================
 
 Project brief (from shared spec):
