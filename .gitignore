@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated runtime data
+student_data.json
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Editor/OS junk
+.vscode/
+.idea/
+.DS_Store
