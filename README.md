@@ -1,4 +1,4 @@
-# Student Data Management System (OOP Based)
+# Student Data Management System (OOPs Based)
 
 A console-based student record manager built with Python and Object-Oriented
 Programming. Originally based on a beginner brief (store student name, roll
