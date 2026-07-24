@@ -1,4 +1,4 @@
-# Advanced Student Data Management System (OOP Based)
+# Student Data Management System (OOP Based)
 
 A console-based student record manager built with Python and Object-Oriented
 Programming. Originally based on a beginner brief (store student name, roll
@@ -93,6 +93,3 @@ manager.save()  # persists everything to student_data.json
 - REST API wrapper (FastAPI/Flask) around `StudentManager`
 - Unit tests with `pytest` for CRUD and grading logic
 
-## License
-
-MIT — see [LICENSE](LICENSE).
